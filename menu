@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Menu – Yorin &amp; Lauranne</title>
+  <title>Menu – Yorin &amp; Lauran</title>
   <meta name="theme-color" content="#c46a2b" />
   <meta name="description" content="Menu voor Yorin &amp; Lauranne's verjaardag – pizza, koffie en drankjes." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
