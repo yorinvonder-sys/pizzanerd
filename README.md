@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Menu – Yorin &amp; Lauran</title>
   <meta name="theme-color" content="#c46a2b" />
-  <meta name="description" content="Menu voor Yorin &amp; Lauranne's verjaardag – pizza, koffie en drankjes." />
+  <meta name="description" content="Menu voor Yorin &amp; Laurans verjaardag – pizza, koffie en drankjes." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:wght@700&display=swap" rel="stylesheet">
