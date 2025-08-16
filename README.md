@@ -81,7 +81,7 @@
       <div class="logo" aria-hidden="true">🍕</div>
       <div>
         <h1>Pizza Menu</h1>
-        <div class="subtitle">Welkom op de verjaardag van <b>Yorin</b> &amp; <b>Lauranne</b> – bekijk ons menu: pizza, koffie &amp; drankjes.</div>
+        <div class="subtitle">Welkom op de verjaardag van <b>Yorin</b> &amp; <b>Lauran</b> – bekijk ons menu: pizza, koffie &amp; drankjes.</div>
       </div>
     </header>
 
